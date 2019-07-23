@@ -1,0 +1,17 @@
+.Inicio{   
+  background-color: gray;    
+}
+
+.Inicio-Login{
+  padding: 117px 120px 120px 130px;
+  border: 5px solid black;
+}
+
+.Inicio-Logout{
+  margin-bottom: 10px;
+}
+
+.BoxForSearch{
+  position: absolute;
+  top: 4%;
+}
